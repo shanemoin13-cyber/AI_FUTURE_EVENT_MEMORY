@@ -1,0 +1,425 @@
+[
+    {
+        "timestamp": "2026-08-20T15:57:24.884593",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0,
+        "actual_result": 0,
+        "prediction_correct": true,
+        "checked_at": "2026-08-20T17:09:13.875717"
+    },
+    {
+        "timestamp": "2026-08-20T15:57:24.906172",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T15:57:24.923140",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 21.6,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T15:57:24.942348",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T15:57:24.960427",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T15:57:24.980647",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 21.6,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289206",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289229",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289238",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289245",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289251",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:12.289257",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996012",
+        "scenario": "Current Condition",
+        "temperature": 80.0,
+        "vibration": 45.0,
+        "power": 80.0,
+        "speed": 1200.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996048",
+        "scenario": "Temperature +10%",
+        "temperature": 88.0,
+        "vibration": 45.0,
+        "power": 80.0,
+        "speed": 1200.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996055",
+        "scenario": "Vibration +20%",
+        "temperature": 80.0,
+        "vibration": 54.0,
+        "power": 80.0,
+        "speed": 1200.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996063",
+        "scenario": "Power +10%",
+        "temperature": 80.0,
+        "vibration": 45.0,
+        "power": 88.0,
+        "speed": 1200.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996071",
+        "scenario": "Speed -10%",
+        "temperature": 80.0,
+        "vibration": 45.0,
+        "power": 80.0,
+        "speed": 1080.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:17:42.996081",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 88.0,
+        "vibration": 54.0,
+        "power": 88.0,
+        "speed": 1080.0,
+        "prediction": 1,
+        "abnormal_probability": 76.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430580",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430599",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430608",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430613",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430618",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:03.430622",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619343",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619362",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619369",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619374",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619379",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:12.619385",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032499",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032518",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032526",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032533",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032538",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:34:15.032544",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370545",
+        "scenario": "Current Condition",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370568",
+        "scenario": "Temperature +10%",
+        "temperature": 55.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370576",
+        "scenario": "Vibration +20%",
+        "temperature": 50.0,
+        "vibration": 18.0,
+        "power": 80.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370581",
+        "scenario": "Power +10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 88.0,
+        "speed": 1500.0,
+        "prediction": 0,
+        "abnormal_probability": 0.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370586",
+        "scenario": "Speed -10%",
+        "temperature": 50.0,
+        "vibration": 15.0,
+        "power": 80.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    },
+    {
+        "timestamp": "2026-08-20T17:39:36.370592",
+        "scenario": "Multiple Stress Factors",
+        "temperature": 55.0,
+        "vibration": 18.0,
+        "power": 88.0,
+        "speed": 1350.0,
+        "prediction": 0,
+        "abnormal_probability": 22.0
+    }
+]
